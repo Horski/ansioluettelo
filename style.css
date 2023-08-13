@@ -1,0 +1,28 @@
+img {
+    border-radius: 30%;
+    border-style: outset;
+}
+
+a {
+    text-decoration: none;
+    color: #568203;
+}
+
+.Lista {
+    display: inline-block;
+    text-align: left;
+}
+
+.Kappale {
+    padding-left: 4em;
+    padding-right: 4em;
+    text-align: left;
+}
+
+body {
+    background-color: #D3D3D3;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    line-height: 1.5;
+    padding: 4em 1em;
+}
